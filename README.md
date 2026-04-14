@@ -1,2 +1,4 @@
 # dojowhitebelt
-Github Dojo Whitebelt
+Github Dojo Whitebelt 
+
+Learning github is cool
